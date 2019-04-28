@@ -1,4 +1,4 @@
-## Strand_seq_practical_computational
+## Strand_seq_practical_computational, Day 6 - Friday 17 May 2019
 
 ## You can download the example data using the following command lines
 

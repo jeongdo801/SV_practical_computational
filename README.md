@@ -5,10 +5,12 @@ Structural variants (SVs) are sequence variants of at least 50 base pairs in siz
 <Suggested reading - biological>
 
 Forsberg et al, Nature Reviews Genetics 2017: “Mosaicism in health and disease — clones picking up speed” https://www.nature.com/articles/nrg.2016.145
+
 Chaisson et al, Nature Communications, 2019: “Multi-platform discovery of haplotype-resolved structural variation in human genomes” https://www.nature.com/articles/s41467-018-08148-z
 
 <Suggested reading - computational>
   
 Rausch et al, Bioinformatics, 2012: "DELLY: structural variant discovery by integrated paired-end and split-read analysis"
 https://academic.oup.com/bioinformatics/article/28/18/i333/245403
+
 Porubsky et al, Bioinformatics, 2019: "breakpointR: an R/Bioconductor package to localize strand state changes in Strand-seq data" https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz681/5556813

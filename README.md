@@ -14,3 +14,11 @@ Rausch et al, Bioinformatics, 2012: "DELLY: structural variant discovery by inte
 https://academic.oup.com/bioinformatics/article/28/18/i333/245403
 
 Porubsky et al, Bioinformatics, 2019: "breakpointR: an R/Bioconductor package to localize strand state changes in Strand-seq data" https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz681/5556813
+
+
+<Software>
+  Day1 : Delly (Rausch et al. 2012)
+  Day2 : Strand-seq plotting pipeline (Meiers et al. 2017)
+  Day3 : BreakpoinR (Porubsky et al. 2019)
+  Day4 : Mosaicatcher (Sanders et al. 2019)
+  

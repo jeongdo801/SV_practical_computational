@@ -17,8 +17,8 @@ Porubsky et al, Bioinformatics, 2019: "breakpointR: an R/Bioconductor package to
 
 
 <Software>
-  Day1 : Delly (Rausch et al. 2012)
-  Day2 : Strand-seq plotting pipeline (Meiers et al. 2017)
-  Day3 : BreakpoinR (Porubsky et al. 2019)
-  Day4 : Mosaicatcher (Sanders et al. 2019)
+  Day1 : Delly (Rausch et al. 2012)&nbsp;
+  Day2 : Strand-seq plotting pipeline (Meiers et al. 2017)&nbsp;
+  Day3 : BreakpoinR (Porubsky et al. 2019)&nbsp;
+  Day4 : Mosaicatcher (Sanders et al. 2019)&nbsp;
   

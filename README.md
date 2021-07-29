@@ -29,3 +29,4 @@ Porubsky et al, Bioinformatics, 2019: "breakpointR: an R/Bioconductor package to
   Day3 : BreakpoinR (Porubsky et al. 2019)<br/>
   Day4 : Mosaicatcher (Sanders et al. 2019)<br/>
   
+![Workflow](Workflow.png)

@@ -22,11 +22,15 @@ https://academic.oup.com/bioinformatics/article/28/18/i333/245403
 
 Porubsky et al, Bioinformatics, 2019: "breakpointR: an R/Bioconductor package to localize strand state changes in Strand-seq data" https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz681/5556813
 
-
+Sanders et al, Nature Biotech, 2020: "Single-cell analysis of structural variations and complex rearrangements with tri-channel processing"
+https://www.nature.com/articles/s41587-019-0366-x
+  
+  
 <Software>
   Day1 : Delly (Rausch et al. 2012)<br/>
   Day2 : Strand-seq plotting pipeline (Meiers et al. 2017)<br/>
   Day3 : BreakpoinR (Porubsky et al. 2019)<br/>
   Day4 : Mosaicatcher (Sanders et al. 2020)<br/>
+  Day5 : scNOVA (Jeong, Grimes et al. in preparation)<br/>
   
 ![Workflow](Workflow.png)
